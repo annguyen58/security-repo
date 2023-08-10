@@ -1,5 +1,7 @@
 # conflict abcdfff
-a = {'a':1,'b':c}
+a = {'a':1,'b':35}
+# conflict
+a = {'a':1,'b':23}
 print(a)
 # try witt git pull
 print("abcdef")
