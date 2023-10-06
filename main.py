@@ -1,8 +1,7 @@
 # conflict abcdfff
-print("gmb pipeline modify")
 a = {'a':1,'b':35}
 # conflict
-print("airflow pipeline modify")
+a = {'a':1,'b':23}
 print(a)
 # try witt git pull
 print("abcdef")
